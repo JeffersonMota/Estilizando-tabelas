@@ -1,0 +1,20 @@
+#tabela{
+        width: 600px;
+        border-collapse:collapse;
+        }
+th, td{
+    padding: 7px;
+    text-transform: uppercase;
+    border-top: 1px solid #999 ;
+    border-bottom: 1px solid #999;
+    text-align: left;
+    font-size: 90%;
+    letter-spacing: 0.2em;
+}
+tr:hover{
+    background-color: #c3e6e5;
+
+}
+.alternado{
+    background: #eae7e7;
+}
